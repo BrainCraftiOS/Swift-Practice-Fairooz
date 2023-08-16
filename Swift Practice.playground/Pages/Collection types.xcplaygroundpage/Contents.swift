@@ -33,6 +33,7 @@ for (index, value) in shoppingList.enumerated() {
     print("Item \(index + 1): \(value)")
 }
 
+print(shoppingList[2])
 
 
 // Creating Set
