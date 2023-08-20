@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  RandomColorsApp
 //
-//  Created by Fairooz Rahman on 17/8/23.
+//  Created by Fairooz Rahman on 20/8/23.
 //
 
 import UIKit
